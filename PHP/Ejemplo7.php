@@ -24,6 +24,29 @@
 		public function restar(){
 			return $this->valor1 - $this->valor2;
 		}
+		public function mult(){
+			return $this->valor1 * $this->valor2;
+		}
+		public function divi(){
+			return $this->valor1 / $this->valor2;
+		}
+		public function may(){
+			if ($this->valor1>$this->valor2) {
+				return $this->valor1;
+			}
+			return $this->valor2;
+		}
+		public function lista(){
+			if ($this->valor1>$this->valor2) {
+				
+				for ($i=$this->valor2; $i <=$this->valor1 ; $i++) { 
+					echo $i."<br>";
+				}
+			}
+			for ($i=$this->valor1; $i <=$this->valor2 ; $i++) { 
+					echo $i."<br>";
+				}
+		}
 	} 
 
 	//instanciar la clase Calculadora (creación de un objeto Calculadora)
@@ -40,6 +63,21 @@
 		echo "Valor 1: ", $objeto->getValor1() , ", Valor 2: ". $objeto->getValor2();
 		echo "<br>La resta es: ", $objeto->restar();	
 	}
-	
+	if (isset($_GET['btnMulti'])) {
+		echo "Valor 1: ", $objeto->getValor1() , ", Valor 2: ". $objeto->getValor2();
+		echo "<br>La multiplicación es: ", $objeto->mult();	
+	}
+	if (isset($_GET['btnDivi'])) {
+		echo "Valor 1: ", $objeto->getValor1() , ", Valor 2: ". $objeto->getValor2();
+		echo "<br>La división es: ", $objeto->divi();	
+	}	
 
+	if (isset($_GET['btnMayor'])) {
+		echo "Valor 1: ", $objeto->getValor1() , ", Valor 2: ". $objeto->getValor2();
+		echo "<br>El número mayor es: ", $objeto->may();	
+	}	
+	if (isset($_GET['btnLista'])) {
+		echo "Valor 1: ", $objeto->getValor1() , ", Valor 2: ". $objeto->getValor2();
+		echo "<br>LISTADO:<br> ", $objeto->lista();	
+	}
 ?>
