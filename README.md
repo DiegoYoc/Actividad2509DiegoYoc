@@ -48,5 +48,22 @@ Curso: Didáctica de la programación<br>
 		<td><a href="PHP/Ejemplo6.php">Clic para ver ejemplo</a></td>
 	</tr>
 </table> <br>
+<p align=center><h2>INTRODUCCIÓN A LA PROGRAMACION ORIENTADA A OBJETOS</h2></p>
+<ol>
+	<li>POO</li>
+		<ol type="a">
+			<li>Clase</li>
+			<li>Objeto</li>
+			<li>¿Qué significa instanciar una clase?</li>
+		</ol>
+	<li>Los 4 pilares de la programación orientada a objetos:</li>
+		<ol>
+			<li>Encapsulamiento</li>
+			<li>Abstracción</li>
+			<li>Herencia</li>
+			<li>Poliformismo</li>
+		</ol>
+</ol>
+
 <p align=center><img src="img/usac.png" width="150"><img src="img/efpem.png" width="200"></p><br>
 <p align=center>"Id y enseñad a todos"</p>
