@@ -8,7 +8,8 @@ Curso: Didáctica de la programación<br>
 <b>Carné:</b> 201401037<br>
 <b>Nombrer:</b> Diego Josué Moises Yoc Chajón<br>
 <hr>
-<img src="img/efpem.png" width="200">
+
+<b>Ejemplos</b><br>
 
 <table border=1>
 	<tr>
@@ -17,18 +18,34 @@ Curso: Didáctica de la programación<br>
 		<td>Enlace</td>
 	</tr>
 	<tr>
-		<td>1</td>
-		<td>Ejemplo calculadora</td>
-		<td><a href="Calculadora">Ir a ejemplo 1</a></td>
+		<td>1.</td>
+		<td>Promedio de 4 números</td>
+		<td><a href="Ejemplo1.php">Clic para ver ejemplo</a></td>
 	</tr>
 	<tr>
-		<td>2</td>
-		<td>Hoja de trabajo 1</td>
-		<td><a href="Ht1JavaDiegoYoc">Ir a ejemplo 2</a></td>
+		<td>2.</td>
+		<td>Área de un trapecio</td>
+		<td><a href="Ejemplo2.php">Clic para ver ejemplo</a></td>
 	</tr>
 	<tr>
-		<td>3</td>
-		<td>Parcial Java</td>
-		<td><a href="ParcialJavaDiegoYoc">Ir a ejemplo 3</a></td>
+		<td>3.</td>
+		<td>Mayor, menor y medio de tres números</td>
+		<td><a href="Ejemplo3.php">Clic para ver ejemplo</a></td>
+	</tr>
+	<tr>
+		<td>4.</td>
+		<td>Indicar cual vocal es la que se repite más veces en un texto.</td>
+		<td><a href="Ejemplo4.php">Clic para ver ejemplo</a></td>
+	</tr>
+	<tr>
+		<td>5.</td>
+		<td>Convertir de binario a Decimal</td>
+		<td><a href="Ejemplo5.php">Clic para ver ejemplo</a></td>
+	</tr>
+	<tr>
+		<td>6.</td>
+		<td>Ordenar de forma ascendente y descendente 20 valores numéricos almacenados en un array.</td>
+		<td><a href="Ejemplo6.php">Clic para ver ejemplo</a></td>
 	</tr>
 </table>
+
