@@ -20,32 +20,32 @@ Curso: Didáctica de la programación<br>
 	<tr>
 		<td>1.</td>
 		<td>Promedio de 4 números</td>
-		<td><a href="Ejemplo1.php">Clic para ver ejemplo</a></td>
+		<td><a href="PHP/Ejemplo1.php">Clic para ver ejemplo</a></td>
 	</tr>
 	<tr>
 		<td>2.</td>
 		<td>Área de un trapecio</td>
-		<td><a href="Ejemplo2.php">Clic para ver ejemplo</a></td>
+		<td><a href="PHP/Ejemplo2.php">Clic para ver ejemplo</a></td>
 	</tr>
 	<tr>
 		<td>3.</td>
 		<td>Mayor, menor y medio de tres números</td>
-		<td><a href="Ejemplo3.php">Clic para ver ejemplo</a></td>
+		<td><a href="PHP/Ejemplo3.php">Clic para ver ejemplo</a></td>
 	</tr>
 	<tr>
 		<td>4.</td>
 		<td>Indicar cual vocal es la que se repite más veces en un texto.</td>
-		<td><a href="Ejemplo4.php">Clic para ver ejemplo</a></td>
+		<td><a href="PHP/Ejemplo4.php">Clic para ver ejemplo</a></td>
 	</tr>
 	<tr>
 		<td>5.</td>
 		<td>Convertir de binario a Decimal</td>
-		<td><a href="Ejemplo5.php">Clic para ver ejemplo</a></td>
+		<td><a href="PHP/Ejemplo5.php">Clic para ver ejemplo</a></td>
 	</tr>
 	<tr>
 		<td>6.</td>
 		<td>Ordenar de forma ascendente y descendente 20 valores numéricos almacenados en un array.</td>
-		<td><a href="Ejemplo6.php">Clic para ver ejemplo</a></td>
+		<td><a href="PHP/Ejemplo6.php">Clic para ver ejemplo</a></td>
 	</tr>
 </table> <br>
 <p align=center><img src="img/usac.png" width="150"><img src="img/efpem.png" width="200"></p><br>
