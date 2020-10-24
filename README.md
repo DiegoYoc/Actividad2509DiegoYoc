@@ -47,8 +47,8 @@ Curso: Didáctica de la programación<br>
 		<td>Ordenar de forma ascendente y descendente 20 valores numéricos almacenados en un array.</td>
 		<td><a href="PHP/Ejemplo6.php">Clic para ver ejemplo</a></td>
 	</tr>
-</table> <br>
-<p align=center><h2>INTRODUCCIÓN A LA PROGRAMACION ORIENTADA A OBJETOS</h2></p>
+</table> <br><br>
+<h2 align=center>INTRODUCCIÓN A LA PROGRAMACION ORIENTADA A OBJETOS</h2>
 <ol>
 	<li>POO</li>
 		<ol type="a">
