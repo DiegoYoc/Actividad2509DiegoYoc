@@ -48,5 +48,5 @@ Curso: Didáctica de la programación<br>
 		<td><a href="Ejemplo6.php">Clic para ver ejemplo</a></td>
 	</tr>
 </table>
-<p><img src="img/efpem.png" width="200"><img src="img/efpem.png" width="200"></p><br>
+<p align=center><img src="img/efpem.png" width="200"><img src="img/usac.png" width="200"></p><br>
 <p align=center>"Id y enseñad a todos"</p>
