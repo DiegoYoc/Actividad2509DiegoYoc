@@ -51,18 +51,18 @@ Curso: Didáctica de la programación<br>
 <h2 align=center>INTRODUCCIÓN A LA PROGRAMACION ORIENTADA A OBJETOS</h2>
 <ol>
 	<li>POO</li>
-		<ol type="a">
+		<ul>
 			<li>Clase</li>
 			<li>Objeto</li>
 			<li>¿Qué significa instanciar una clase?</li>
-		</ol>
-	<li>Los 4 pilares de la programación orientada a objetos:
-		
+		</ul>
+	<li>Los 4 pilares de la programación orientada a objetos:</li>
+		<ul>
 			<li>Encapsulamiento</li>
 			<li>Abstracción</li>
 			<li>Herencia</li>
 			<li>Poliformismo</li>
-	</li>
+		</ul>
 </ol>
 
 <p align=center><img src="img/usac.png" width="150"><img src="img/efpem.png" width="200"></p><br>
