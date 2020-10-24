@@ -4,7 +4,7 @@ Cátedra de Computación e Informática - CCI<br>
 Licenciatura en la Enseñanza de la Informática y Computación<br>
 Curso: Didáctica de la programación<br>
 
-<center><h1>PRACTICA BÁSICA DE PHP, GIT y GITHUB</h1></center>
+<h3 align=center>PRACTICA BÁSICA DE PHP, GIT y GITHUB</h3>
 <b>Creado por:</b> Diego Yoc
 
 <img src="img/efpem.png" width="200">
