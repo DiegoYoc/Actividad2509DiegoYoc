@@ -1,10 +1,10 @@
-Universidad de San Carlos de Guatemala – USAC
-Escuela de Formación de Profesores de Enseñanza Media - EFPEM
-Cátedra de Computación e Informática - CCI
-Licenciatura en la Enseñanza de la Informática y Computación
-Curso: Didáctica de la programación
+Universidad de San Carlos de Guatemala – USAC<br>
+Escuela de Formación de Profesores de Enseñanza Media - EFPEM<br>
+Cátedra de Computación e Informática - CCI<br>
+Licenciatura en la Enseñanza de la Informática y Computación<br>
+Curso: Didáctica de la programación<br>
 
-<center><h1>Repositorio Java</h1></center>
+<center><h1>PRACTICA BÁSICA DE PHP, GIT y GITHUB</h1></center>
 <b>Creado por:</b> Diego Yoc
 
 <img src="img/efpem.png" width="200">
