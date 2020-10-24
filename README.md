@@ -5,8 +5,9 @@ Licenciatura en la Enseñanza de la Informática y Computación<br>
 Curso: Didáctica de la programación<br>
 
 <h3 align=center>PRACTICA BÁSICA DE PHP, GIT y GITHUB</h3>
-<b>Creado por:</b> Diego Yoc
-
+<b>Carné:</b> 201401037<br>
+<b>Nombrer:</b> Diego Josué Moises Yoc Chajón<br>
+<hr>
 <img src="img/efpem.png" width="200">
 
 <table border=1>
