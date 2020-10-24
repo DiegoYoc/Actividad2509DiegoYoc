@@ -50,18 +50,18 @@ Curso: Didáctica de la programación<br>
 </table> <br><br>
 <h2 align=center>INTRODUCCIÓN A LA PROGRAMACION ORIENTADA A OBJETOS</h2>
 <ol>
-	<li>POO</li>
+	<li><b>POO:</b></li>Es una programación específica donde se utilizan clases, metodos y propiedades para crear objetos 
 		<ul>
-			<li>Clase</li>
-			<li>Objeto</li>
-			<li>¿Qué significa instanciar una clase?</li>
+			<li><b>Clase:</b></li>Es como la base para la creación de objetos, cada una de estas clases tiene sus caracteristicas y ventajas.
+			<li><b>Objeto:</b></li>Son todas aquellas unidades que se crean al instanciar una clase.
+			<li><b>¿Qué significa instanciar una clase?</b></li> Crear un objeto basado en una clase donde se heredan todas las caracteristicas de esta.
 		</ul>
-	<li>Los 4 pilares de la programación orientada a objetos:</li>
+	<li><b>Los 4 pilares de la programación orientada a objetos:</b></li>
 		<ul>
-			<li>Encapsulamiento</li>
-			<li>Abstracción</li>
-			<li>Herencia</li>
-			<li>Poliformismo</li>
+			<li><b>Encapsulamiento:</b></li>Es quien permite ocultar todo lo complejo del código en una forma gráfica.
+			<li><b>Abstracción:</b></li> Por medio de esta se identifican todas las caracteristicas que debe tener un objeto dentro de una clase.
+			<li><b>Herencia:</b></li>Por medio de esta se puede reutilizar el codigo de los objetos de una clase padre a una clase hija.
+			<li><b>Poliformismo:</b></li> Es la combinación de varios metodos en un solo objeto.
 		</ul>
 </ol>
 
