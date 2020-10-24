@@ -56,13 +56,13 @@ Curso: Didáctica de la programación<br>
 			<li>Objeto</li>
 			<li>¿Qué significa instanciar una clase?</li>
 		</ol>
-	<li>Los 4 pilares de la programación orientada a objetos:</li>
-		<ol type='a'>
+	<li>Los 4 pilares de la programación orientada a objetos:
+		
 			<li>Encapsulamiento</li>
 			<li>Abstracción</li>
 			<li>Herencia</li>
 			<li>Poliformismo</li>
-		</ol>
+	</li>
 </ol>
 
 <p align=center><img src="img/usac.png" width="150"><img src="img/efpem.png" width="200"></p><br>
